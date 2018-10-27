@@ -18,8 +18,6 @@
              borrar.style.margin = "0 15px";
              borrar.innerText = "Eliminar";
 
-
-
              element.appendChild(listo);
              element.appendChild(borrar);
 
